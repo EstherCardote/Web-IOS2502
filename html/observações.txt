@@ -1,0 +1,13 @@
+começar o codigo com "!" enter para aparecer a estrutura
+dentro do boy escrever "header+main+footer
+ctrl + espaço para aparecer as fotos que estão na pasta para anexar
+<h1> so pode ter 1
+<p> texto que não te importancia, so um texto solto
+semantico = algo bem escrito, algo bem estruturado
+<a href=""></a> - Serve para colocar um link
+<br> pula uma linha
+
+https://developer.mozilla.org/pt-BR/docs/Learn_web_development
+
+https://developer.mozilla.org/pt-BR/
+
