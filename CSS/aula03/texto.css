@@ -1,0 +1,17 @@
+/* Para usar uma fonte da internet podemos usar o @import do site especificado. No exemplo abaixo utilizamos o site Google Fonts para importar e utilizar uma nova font-family */
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&family=Nosifer&display=swap');
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    /*1º valor deslocamento horizontal, 2º valor deslocamento vertical, 3º valor desfoque, 4º valor cor da sombra*/
+    text-shadow: 0px 30px 5px rgb(191, 217, 228);
+}
+
+p {
+    font-family: "Nosifer", sans-serif;
+    text-align: center;
+    width: 600px;
+}

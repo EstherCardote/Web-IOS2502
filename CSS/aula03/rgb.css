@@ -1,0 +1,27 @@
+#red {
+    color: rgb(255, 49, 49);
+}
+
+#green {
+    color: green;
+}
+
+#blue {
+    color: blue;
+}
+
+h2 {
+    color: rgb(90, 25, 255);
+    font-size: 50px;
+}
+
+body {
+    /*Faz com que o elemento tenha uma imagem de fundo */
+    background-image: url("https://pm1.aminoapps.com/6868/1b151b11c055a0da2399ffc1834efe7380331603r1-900-641v2_hq.jpg");
+    /*Faz com que a imagem de fundo preencha a tela */
+    background-size: cover;
+}
+p{
+    /* HEX ou código hexadecimal representa uma cor especifica. Esse codigo é como você receberá de seu designer as cores para construir os sites de seus clientes.*/
+    color: #c934eb;
+}
