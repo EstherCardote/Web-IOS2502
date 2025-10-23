@@ -1,0 +1,17 @@
+h1 {
+    /* border-width: determina o tamanho da borda */
+    border-width: 3px;
+    /* border-color: determina a cor da borda */
+    border-color: black;
+    /* border-style: determina o formato da borda*/
+    border-style: dashed;
+}
+p{
+    /* Podemos criar bordas de maneira abreviada utilizando apenas a propriedade border.
+    Border recebe 3 valores, sendo eles: 
+    tamanho (3px)
+    tipo (double)
+    cor (black)
+    */
+    border: 3px darkcyan solid;
+}

@@ -1,0 +1,19 @@
+/* Resete básico do CSS */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    background-color: red;
+}
+
+/* Todo parágrafo que estiver dentro de um <li> receberá o design abaixo */ 
+li p{
+
+    background-color: yellow;
+}
+/* Todo paragrafo que estiver dentro de um <li> que esta dentro de uma <ol> receberá o design abaixo  */
+ol li p{
+    background-color: blue;
+}
