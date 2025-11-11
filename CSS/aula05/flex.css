@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+#container{
+    background-color: white;
+    display:flex;
+    /* Justify alinha os itens na horizontal (esquerda para direita) */
+    justify-content:center
+}
+.quadrado{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+    border: 1px black solid;
+}

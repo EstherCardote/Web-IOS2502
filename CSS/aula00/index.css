@@ -1,0 +1,12 @@
+button{
+    background-color: green;
+    border-radius: 10px;
+}
+
+button:hover{
+    color: white;
+}
+
+#carousel-inner{
+    height: 100px;
+}
