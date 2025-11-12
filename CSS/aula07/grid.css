@@ -22,4 +22,6 @@
 
 .item-3 {
     background-color: blue;
+    grid-row: 3/3;
+    grid-column: 5/5;
 }
